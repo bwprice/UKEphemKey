@@ -1,0 +1,22 @@
+1:
+take URL for image page
+
+2:
+replace
+https://github.com
+with
+https://raw.githubusercontent.com
+
+3:
+remove /blob from URL
+
+4:
+copy link to XPER
+
+example:
+this:
+
+https://github.com/bwprice/UKEphemKey/blob/master/images/larvae/Baetidae_gill_structure.jpg
+
+becomes:
+https://raw.githubusercontent.com/bwprice/UKEphemKey/master/images/larvae/Baetidae_gill_structure.jpg
